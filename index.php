@@ -6,10 +6,10 @@
   <link rel="stylesheet" href="style.css">
 <head>
 <body>
-<div class="center-block">
-  <div><input type="text" placeholder="社員ID" required></div>
-  <div><input type="password" placeholder="パスワード" required></div>
-  <div><button>Login</button></div>
+<div class="mx-auto">
+  <input type="text" placeholder="社員ID" required>
+  <input type="password" placeholder="パスワード" required>
+  <button>Login</button>
 </div>
 </body>
 </html>
