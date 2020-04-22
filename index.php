@@ -8,7 +8,7 @@
 
 <header>ログイン</header>
 
-<div class="container">
+<div class="parant">
   <div class="login">
   </div>
 </div>

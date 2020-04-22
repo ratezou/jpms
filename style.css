@@ -1,12 +1,9 @@
-.container{
-  background: gray;
+.parant{
   display: flex;
-  height: 500px;
-  justify-content: center;
   flex-direction: column;
+  background: gray;
 }
-#login {
-  background-color: dodgerblue;
+.login {
   width: 50%;
-  height: 50%;
+  background-color: skyblue;
 }
