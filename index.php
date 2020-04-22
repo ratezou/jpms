@@ -3,13 +3,12 @@
 <head>
   <title>Login</title>
   <style>
-    input {
-      font-size: 3em;
-    }
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
   </style>
 <head>
 <body>
-<div class="content">
+<div class="center-block">
   <div clase="id">
     <input type="text" placeholder="社員ID" required>
   </div>
