@@ -22,17 +22,14 @@ button {
   font-size: 3em;
 }
 
-#box-container {
+#container {
   height: 500px;
-
 }
-
 #header {
   background-color: dodgerblue;
   width: 50%;
   height: 50%;
 }
-
 #footer {
   background-color: orangered;
   width: 50%;
