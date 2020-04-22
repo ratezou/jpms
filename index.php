@@ -10,7 +10,7 @@
   <h1>ログイン</h1>
 </header>
 
-  <div class="container"
+  <div class="container">
     <!--社員ID-->
     <h2>社員ID</h2>
     <input type="text" id="id" placeholder="社員ID" required>
