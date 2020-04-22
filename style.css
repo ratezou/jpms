@@ -1,6 +1,13 @@
+.container {
+  margin: 0 auto;
+}
+
 #id {
+  margin: 0px;
   font-size: 24px;
 }
 #pass {
+  margin: 0px;
   font-size: 24px;
 }
+
