@@ -6,27 +6,14 @@
 <head>
 <body>
 
-<header>
-  <h1>ログイン</h1>
-</header>
+<header>ログイン</header>
 
-  <div class="container">
-    <div class="login">
-      <!--社員ID-->
-      <h2>社員ID</h2>
-      <input type="text" id="id" placeholder="社員ID" required>
-      <!--パスワード-->
-      <h2>パスワード</h2>
-      <input type="password" id="pass" placeholder="パスワード" required>
-      <!--ボタン-->
-      <button>Login</button>
-    </div>
+<div class="container">
+  <div class="login">
   </div>
-
-<footer>
-  footer
-</footer>
-
 </div>
+
+<footer>フッター</footer>
+
 </body>
 </html>
