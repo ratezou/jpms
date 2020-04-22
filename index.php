@@ -6,10 +6,13 @@
   <link rel="stylesheet" href="style.css">
 <head>
 <body>
-<div class="ent">
-  <input type="text" placeholder="社員ID" required>
-  <input type="password" placeholder="パスワード" required>
-  <button>Login</button>
-</div>
+  <form action="" method="post">
+    社員ID
+    <input type="text" placeholder="社員ID" required>
+    パスワード
+    <input type="password" placeholder="パスワード" required>
+    ---
+    <button>Login</button>
+</form>
 </body>
 </html>
