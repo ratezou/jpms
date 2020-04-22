@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 <head>
 <body>
-<div class="mx-auto">
+<div class="ent">
   <input type="text" placeholder="社員ID" required>
   <input type="password" placeholder="パスワード" required>
   <button>Login</button>
