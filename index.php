@@ -7,15 +7,9 @@
 <head>
 <body>
 <div class="center-block">
-  <div clase="id">
-    <input type="text" placeholder="社員ID" required>
-  </div>
-  <div class="pass">
-    <input type="password" placeholder="パスワード" required>
-  </div>
-  <div class="btn">
-    <button>Login</button>
-  </div>
+  <input type="text" placeholder="社員ID" required>
+  <input type="password" placeholder="パスワード" required>
+  <button>Login</button>
 </div>
 </body>
 </html>
