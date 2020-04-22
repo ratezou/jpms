@@ -7,11 +7,12 @@
 <head>
 <body>
   <form action="" method="post">
-    社員ID
+    <h1>ログイン</h1>
+    <h2>社員ID</h2>
     <input type="text" placeholder="社員ID" required>
-    パスワード
+    <h2>パスワード</h2>
     <input type="password" placeholder="パスワード" required>
-    ---
+    <h2> ---</h2>
     <button>Login</button>
 </form>
 </body>
